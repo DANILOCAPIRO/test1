@@ -49,7 +49,7 @@ afterEvaluate {
 
                 groupId = 'com.github.DANILOCAPIRO'
                 artifactId = 'test1library'
-                version = '1.3'
+                version = '1.4'
             }
         }
     }
